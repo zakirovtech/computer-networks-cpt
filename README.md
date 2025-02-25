@@ -1,2 +1,5 @@
 # computer-networks-cpt
-Practical tasks on computer networks in Cisco Packet Tracer
+
+# 1. access-list-examlpe.cpt
+
+["lab-screenshot"]["./screens/access-list-example.png"]
